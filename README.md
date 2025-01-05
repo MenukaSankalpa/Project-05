@@ -1,2 +1,2 @@
 # Project-05
-A Grocery Store application in Python is a simple yet functional program designed to simulate the operations of a real-world grocery store. It helps users (customers or store managers) perform various tasks such as browsing available items, adding items to a shopping cart, removing items, checking the total price, and processing payments.
+Build a Flask website with authentication, databases (SQLAlchemy), and dynamic templates. Learn user login, session handling, and deployment using Bootstrap, Flask-Migrate, and RESTful APIs.
